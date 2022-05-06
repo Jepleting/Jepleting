@@ -1,6 +1,5 @@
-Hello,I am Jepleting Linah,
-
-I am interested in Data Science,Data Analytics and Machine Learning.
+Hello,I am Jepleting Linah,a curious ,enthusiastic and highly motivated individual who is
+interested in Data Science,Data Analytics and Machine Learning.
 
 Currently I am learning Data Analytics which is a very exciting experience for me.
 
