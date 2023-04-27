@@ -1,9 +1,7 @@
 Hello,I am Jepleting Linah,a curious ,enthusiastic and highly motivated individual who is
-interested in Data Science,Data Analytics and Machine Learning.
+interested in Data Science and Web Development.
 
-I would like to collaborate on any projects that touch on the above concepts since I am sure it will give me more exposure and relevant experience.
-
-You can reach me @ jepletinglinah5@gmail.com
+You can reach me @ jepletinglinah5@gmail.com and lets get cracking!!!
 
 ...let's have fun learning,cheers🥂😌.
 
