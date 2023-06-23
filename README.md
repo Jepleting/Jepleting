@@ -1,5 +1,5 @@
 Hello,I am Jepleting Linah,a curious ,enthusiastic and highly motivated individual who is
-interested in Data Science and Web Development.
+interested in and Web Development and Data Science.
 
 You can reach me @ jepletinglinah5@gmail.com and lets get cracking!!!
 
