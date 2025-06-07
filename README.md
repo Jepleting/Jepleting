@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linah Jepleting</h1>
-<h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Software Developer</h3>
+<h3 align="center">Aspiring Data Engineer | AI/ML Enthusiast | Software Developer</h3>
 
 ---
 
