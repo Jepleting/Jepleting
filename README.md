@@ -24,6 +24,10 @@
 | Certifications  | ![Google IT Support](https://img.shields.io/badge/-Google%20IT%20Support-4285F4?style=flat&logo=google) ![Google Data Analytics](https://img.shields.io/badge/-Google%20Data%20Analytics-34A853?style=flat&logo=google) |
 
 ---
+### 📈 GitHub Stats
+
+![Linah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jepleting&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jepleting&layout=compact&theme=tokyonight)
 
 <!---
 Jepleting/Jepleting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
